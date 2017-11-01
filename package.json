@@ -1,0 +1,32 @@
+{
+  "name": "server-cssmodules-loader",
+  "version": "0.1.0",
+  "description": "A simple loader to support css modules on the server",
+  "author": "Andrew Coelho <info@andrewcoelho.com> (http://andrewcoelho.com)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewcoelho/server-cssmodules-loader.git"
+  },
+  "keywords": [
+    "css",
+    "modules",
+    "isomorphic",
+    "universal",
+    "webpack",
+    "loader",
+    "style",
+    "loader"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrewcoelho/server-cssmodules-loader/issues"
+  },
+  "homepage": "https://github.com/andrewcoelho/server-cssmodules-loader#readme",
+  "dependencies": {
+    "loader-utils": "^1.1.0"
+  }
+}
